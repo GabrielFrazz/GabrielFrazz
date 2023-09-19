@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/GabrielFrazz/GabrielFrazz/assets/118780538/db4bc4e8-d620-4908-a49b-f71c2f01a172)
+![MasterHead](https://github.com/GabrielFrazz/GabrielFrazz/assets/118780538/008dfc36-2cf9-4c14-8bc1-4df311ff0359)
 <img align="right" alt="Coding" width="400" src="https://github.com/GabrielFrazz/GabrielFrazz/assets/118780538/bb0a2761-9ae1-4047-9ac3-57d61df7a29c">
 
 📫 You can reach me at: [carlos.gofrazao@gmail.com](mailto:carlos.gofrazao@gmail.com)
